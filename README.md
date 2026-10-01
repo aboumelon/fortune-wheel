@@ -4,6 +4,12 @@ A responsive Persian RTL prize-wheel SPA built with Django, PostgreSQL, React, a
 
 ![Fortune Wheel dashboard](docs/fortune-wheel-cover.jpg)
 
+## Administration
+
+The localized Django Admin provides controlled prize management, coupon assignment, user administration, and a read-only spin audit trail.
+
+![Fortune Wheel administration dashboard](docs/admin-dashboard.jpg)
+
 ## Core behavior
 
 - The browser never selects or submits a prize.
