@@ -1,0 +1,17 @@
+{
+  "demoDisplayName": "دوست خوش‌شانس",
+  "prizes": [
+    {"slot": 0, "name": "ارسال رایگان", "description": "برای سفارش بعدی", "icon": "🚚", "color": "#7C3AED"},
+    {"slot": 1, "name": "۱۰٪ تخفیف", "description": "روی خرید بعدی شما", "icon": "🏷️", "color": "#EC4899"},
+    {"slot": 2, "name": "قهوه مهمان ما", "description": "یک نوشیدنی رایگان", "icon": "☕", "color": "#F97316"},
+    {"slot": 3, "name": "۲۰ امتیاز", "description": "به باشگاه مشتریان", "icon": "⭐", "color": "#EAB308"},
+    {"slot": 4, "name": "هدیه سورپرایز", "description": "یک هدیه کوچک و دوست‌داشتنی", "icon": "🎁", "color": "#22C55E"},
+    {"slot": 5, "name": "۱۵٪ تخفیف", "description": "روی یک محصول دلخواه", "icon": "✨", "color": "#14B8A6"},
+    {"slot": 6, "name": "دسر رایگان", "description": "کنار سفارش بعدی", "icon": "🧁", "color": "#06B6D4"},
+    {"slot": 7, "name": "۵۰ امتیاز", "description": "به باشگاه مشتریان", "icon": "💎", "color": "#3B82F6"},
+    {"slot": 8, "name": "خرید یکی، دوتا", "description": "یک محصول هدیه بگیرید", "icon": "🎉", "color": "#6366F1"},
+    {"slot": 9, "name": "۲۵٪ تخفیف", "description": "جایزه ویژه امروز", "icon": "🔥", "color": "#8B5CF6"},
+    {"slot": 10, "name": "بلیط قرعه‌کشی", "description": "یک شانس اضافه", "icon": "🎫", "color": "#D946EF"},
+    {"slot": 11, "name": "جایزه طلایی", "description": "بهترین جایزه گردونه", "icon": "🏆", "color": "#F59E0B"}
+  ]
+}

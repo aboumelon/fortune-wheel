@@ -1,0 +1,15 @@
+[project]
+name = "fortune-wheel-backend"
+version = "1.0.0"
+description = "Django API and administration for the Fortune Wheel hiring project"
+requires-python = ">=3.13,<3.15"
+dependencies = [
+  "django==6.0.8",
+  "gunicorn==23.0.0",
+  "jdatetime==5.2.0",
+  "psycopg[binary]==3.3.6",
+  "whitenoise==6.12.0",
+]
+
+[tool.uv]
+package = false

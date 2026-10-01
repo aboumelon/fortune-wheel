@@ -1,0 +1,41 @@
+{% extends "admin/base.html" %}
+{% load i18n static %}
+
+{% block title %}{{ title }} | {% translate "Fortune Wheel administration" %}{% endblock %}
+
+{% block responsive %}
+  {{ block.super }}
+  <link rel="stylesheet" href="{% static 'admin/css/fortune-admin.css' %}">
+{% endblock %}
+
+{% block branding %}
+  <div id="site-name">
+    <a href="{% url 'admin:index' %}">
+      <span class="admin-brand-mark" aria-hidden="true">✦</span>
+      <span>
+        <small>{% translate "Administration panel" %}</small>
+        <strong>{% translate "Fortune Wheel" %}</strong>
+      </span>
+    </a>
+  </div>
+{% endblock %}
+
+{% block welcome-msg %}
+  <span class="admin-welcome">
+    {% translate "Welcome," %} <strong>{% firstof user.get_short_name user.get_username %}</strong>
+  </span>
+{% endblock %}
+
+{% block userlinks %}
+  {% if user.has_usable_password %}
+    <a href="{% url 'admin:password_change' %}">{% translate "Change password" %}</a>
+  {% endif %}
+  <form id="logout-form" method="post" action="{% url 'admin:logout' %}">
+    {% csrf_token %}
+    <button type="submit">{% translate "Log out" %}</button>
+  </form>
+{% endblock %}
+
+{% block nav-global %}
+  <a class="view-site-link" href="/">{% translate "View application" %} <span aria-hidden="true">←</span></a>
+{% endblock %}

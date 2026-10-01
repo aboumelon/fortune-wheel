@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fortune-wheel 1.0\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Wheel slot"
+msgstr "جایگاه روی گردونه"
+
+msgid "A number from 0 through 11; slot 0 is at the top."
+msgstr "عددی از ۰ تا ۱۱؛ جایگاه ۰ در بالای گردونه است."
+
+msgid "Prize name"
+msgstr "نام جایزه"
+
+msgid "Short description"
+msgstr "توضیح کوتاه"
+
+msgid "Icon"
+msgstr "آیکن"
+
+msgid "Color"
+msgstr "رنگ"
+
+msgid "Available for new coupons"
+msgstr "قابل استفاده برای کوپن‌های جدید"
+
+msgid "Inactive prizes remain on the wheel and are still honored for issued coupons."
+msgstr "جایزه‌های غیرفعال روی گردونه باقی می‌مانند و برای کوپن‌های صادرشده همچنان معتبرند."
+
+msgid "Prize"
+msgstr "جایزه"
+
+msgid "Prizes"
+msgstr "جوایز"
+
+msgid "Code"
+msgstr "کد"
+
+msgid "User"
+msgstr "کاربر"
+
+msgid "Preassigned prize"
+msgstr "جایزه از پیش تعیین‌شده"
+
+msgid "Created at"
+msgstr "زمان ایجاد"
+
+msgid "Redeemed at"
+msgstr "زمان مصرف"
+
+msgid "Coupon"
+msgstr "کوپن"
+
+msgid "Coupons"
+msgstr "کوپن‌ها"
+
+msgid "Redeemed"
+msgstr "مصرف‌شده"
+
+msgid "Available"
+msgstr "آماده استفاده"
+
+msgid "The owner, prize, and redemption state of a redeemed coupon are immutable."
+msgstr "مالک، جایزه و وضعیت مصرف کوپن مصرف‌شده قابل تغییر نیست."
+
+msgid "Only active prizes can be assigned to new coupons."
+msgstr "فقط جایزه‌های فعال را می‌توان به کوپن جدید اختصاص داد."
+
+msgid "Request identifier"
+msgstr "شناسه درخواست"
+
+msgid "Prize slot"
+msgstr "جایگاه جایزه"
+
+msgid "Prize name snapshot"
+msgstr "نام ثبت‌شده جایزه"
+
+msgid "Prize description snapshot"
+msgstr "توضیح ثبت‌شده جایزه"
+
+msgid "Prize icon snapshot"
+msgstr "آیکن ثبت‌شده جایزه"
+
+msgid "Prize color snapshot"
+msgstr "رنگ ثبت‌شده جایزه"
+
+msgid "Spun at"
+msgstr "زمان چرخش"
+
+msgid "Spin"
+msgstr "چرخش"
+
+msgid "Spin history"
+msgstr "تاریخچه چرخش‌ها"
+
+msgid "Coupon status"
+msgstr "وضعیت کوپن"
+
+msgid "Slot"
+msgstr "جایگاه"
+
+msgid "Created (Jalali)"
+msgstr "ایجاد (شمسی)"
+
+msgid "Redeemed (Jalali)"
+msgstr "مصرف (شمسی)"
+
+msgid "Identifier"
+msgstr "شناسه"
+
+msgid "Spun at (Jalali)"
+msgstr "زمان چرخش (شمسی)"
+
+msgid "Fortune Wheel administration"
+msgstr "مدیریت گردونه شانس"
+
+msgid "Administration panel"
+msgstr "پنل مدیریت"
+
+msgid "Administration dashboard"
+msgstr "داشبورد مدیریت"
+
+msgid "Fortune Wheel"
+msgstr "گردونه شانس"
+
+msgid "Welcome,"
+msgstr "خوش آمدید،"
+
+msgid "Change password"
+msgstr "تغییر گذرواژه"
+
+msgid "Log out"
+msgstr "خروج"
+
+msgid "View application"
+msgstr "مشاهده اپلیکیشن"
